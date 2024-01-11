@@ -26,3 +26,4 @@ class Users(unittest.TestCase):
         fields.sort()
         correct_fields.sort()
         self.assertEqual(fields, correct_fields)
+
