@@ -25,3 +25,5 @@ To check your solution, click on "Save / Load", then "Save XML", copy/paste the 
 - Become comfortable with using the [SQL Designer](http://db.lewagon.com) tool to build a table.
 - Use the correct naming conventions for table and column names
 - Ask yourself about the type of each column
+
+comment
